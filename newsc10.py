@@ -11,7 +11,7 @@ from googletrans import Translator
 from humanfriendly import format_timespan, format_size, format_number, format_length
 import time, random, sys, json, codecs, threading, glob, re, string, os, requests, six, ast, pytz, urllib, urllib3, urllib.parse, traceback, atexit, subprocess
 
-ririn = LINE("EtKtkL176FshhP9PKaV6.7kqscP17dKQEF08Bg5AKnG.XNdQINxpbD1oN9msScvYFDrCkFFwTtDiaAH4+0uKmNg=")
+ririn = LINE("EvVGEzt3C0nkr0RpHoea.UHbbg4pHBjT5VwCYtXmXsG.kcJ7VbYwvFOjWeXtsVd3VaQ5LrjD5Z4L1a6l8ptMo6M=")
 #ririn = LINE("")
 ririnMid = ririn.profile.mid
 ririnProfile = ririn.getProfile()
